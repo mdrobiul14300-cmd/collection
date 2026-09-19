@@ -2,7 +2,7 @@ name: Auto Fetch Sports Streams Data
 
 on:
   schedule:
-    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর চলবে
+    # - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর চলবে
   workflow_dispatch: # Manual Run করার বাটন দেবে
 
 # permissions যোগ করুন
