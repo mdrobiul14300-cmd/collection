@@ -49,4 +49,4 @@ def main():
     print(f"Successfully saved {len(detailed_matches)} matches to {output_filename}")
 
 if __name__ == "__main__":
-    main():
+    main()
